@@ -94,19 +94,10 @@ A live demonstration of the vehicle detecting a gold object is available in [`de
 
 | Document | Description |
 |---|---|
-| [📄 Full Report](docs/COE304_Report.pdf) | Complete technical report |
-| [📄 Course Poster](docs/COE304_Poster.pdf) | COE-304  Poster |
+| [ Full Report](docs/COE304_Report.pdf) | Complete technical report |
+| [ Course Poster](docs/COE304_Poster.pdf) | COE-304  Poster |
 
 ---
-
-##  Team
-
-| Name | Role |
-|---|---|
-| Sultanah Al Mutairi | Hardware & Software Development |
-| Amal Al Anzy | Hardware & Software Development |
-| Sara Al Sultan | Hardware & Software Development |
-| Dr. Radia Ahmed Touahrir | Project Supervisor |
 
 **Course:** Embedded Systems — COE-304
 **Year:** 2024–2025
@@ -117,6 +108,6 @@ A live demonstration of the vehicle detecting a gold object is available in [`de
 
 This work is licensed under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
 
-© 2025 Sultanah Al Mutairi, Amal Al Anzy, Sara Al Sultan
+© 2025 Sultanah Al Mutairi
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
